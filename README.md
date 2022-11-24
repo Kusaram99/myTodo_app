@@ -1,6 +1,6 @@
 Application demo : https://rampawara99.github.io/myTodo_app/
 
-#porpose
+#Porpose
 For learn Redux and React.js functionality
 
 #functionality

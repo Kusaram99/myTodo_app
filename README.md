@@ -1,4 +1,13 @@
-This project is live : https://rampawara99.github.io/myTodo_app/
+Application demo : https://rampawara99.github.io/myTodo_app/
+
+#porpose
+For learn Redux and React.js functionality
+
+#functionality
+This application is a todo application there is notes adding, notes deleting, notes editing, notes searching functionality, as well as responsive
+
+# Technology
+1. Redux, React.js, Localstorage
 
 # Getting Started with Create React App
 
